@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Sabrina Gutkowski",
+    "phone": "(346) 914-2739 x0845",
+    "email": "Dahlia.Daniel53@hotmail.com",
+    "job": "Principal Solutions Technician"
+  },
+  {
+    "name": "Aaron Hane",
+    "phone": "653-985-7576 x2875",
+    "email": "Kaitlin.Bauch33@gmail.com",
+    "job": "Global Usability Producer"
+  },
+  {
+    "name": "Annette Veum-Kautzer",
+    "phone": "1-881-618-3372 x240",
+    "email": "Deonte21@gmail.com",
+    "job": "Human Interactions Associate"
+  },
+  {
+    "name": "Walter Kshlerin",
+    "phone": "685-569-4480 x577",
+    "email": "Francisco73@hotmail.com",
+    "job": "Principal Usability Representative"
+  }
+]
